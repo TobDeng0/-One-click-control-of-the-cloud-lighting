@@ -2,8 +2,10 @@
 # 玩客云灯光一键控制 - One-click Control of the Cloud Lighting
 ## 简介
 这是一个用于玩客云设备的灯光控制脚本。通过这个脚本，你可以轻松地通过命令行控制设备的 LED 灯光。
-
 ```
+
+![image](https://github.com/user-attachments/assets/09e1816e-d10c-4923-8897-cb50298e7647)
+
 
 ## 安装步骤
 
