@@ -15,12 +15,12 @@
 
 #### 使用 `curl` 下载：
 ```bash
-curl -o /usr/local/bin/wky https://raw.githubusercontent.com/TobDeng0/-One-click-control-of-the-cloud-lighting/main/wky.sh
+curl -o /usr/local/bin/wky https://gitee.com/toilet-drier/wky/raw/master/wky.sh
 ```
 
 #### 使用 `wget` 下载：
 ```bash
-wget -O /usr/local/bin/wky https://raw.githubusercontent.com/TobDeng0/-One-click-control-of-the-cloud-lighting/main/wky.sh
+wget -O /usr/local/bin/wky https://gitee.com/toilet-drier/wky/raw/master/wky.sh
 ```
 
 ### 第二步：重命名脚本文件
