@@ -18,12 +18,12 @@ Use the following command to download the script to the `/usr/local/bin` directo
 
 #### Download using `curl`:
 ```bash
-curl -o /usr/local/bin/wky https://raw.githubusercontent.com/TobDeng0/-One-click-control-of-the-cloud-lighting/main/wky.sh
+curl -o /usr/local/bin/wky https://gitee.com/toilet-drier/wky/raw/master/wky.sh
 ```
 
 #### Download using `wget`:
 ```bash
-wget -O /usr/local/bin/wky https://raw.githubusercontent.com/TobDeng0/-One-click-control-of-the-cloud-lighting/main/wky.sh
+wget -O /usr/local/bin/wky https://gitee.com/toilet-drier/wky/raw/master/wky.sh
 ```
 
 ### Step 2: Rename the Script File
