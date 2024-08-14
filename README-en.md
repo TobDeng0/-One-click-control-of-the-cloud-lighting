@@ -3,7 +3,7 @@
 ## Introduction
 This is a script designed for controlling the lighting of the OneCloud device. With this script, you can easily control the LED lights on the device via the command line.
 ```
-[中文版}(https://github.com/TobDeng0/-One-click-control-of-the-cloud-lighting/blob/main/README-zh.md)
+[中文版}(https://github.com/TobDeng0/-One-click-control-of-the-cloud-lighting/blob/main/README.md)
 
 ![image](https://github.com/user-attachments/assets/f06fd74e-188a-44ea-8b5a-2c52fa33d63a)
 
